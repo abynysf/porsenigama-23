@@ -1,0 +1,67 @@
+{
+  "jadwal_pertandingan": [
+    {
+      "tim1": "FKKMK",
+      "tim2": "FIB",
+      "cabang_pertandingan": "Sepak Bola",
+      "tanggal": "2023-10-04",
+      "jam": "22:00",
+      "venue": "Stadion Pancasila",
+      "kategori": "Putra"
+    },
+    {
+      "tim1": "Vokasi",
+      "tim2": "Teknik",
+      "cabang_pertandingan": "Basket",
+      "tanggal": "2023-10-04",
+      "jam": "14:30",
+      "venue": "Gor Pancasila",
+      "kategori": "Putra"
+    },
+    {
+      "tim1": "Fisipol",
+      "tim2": "FEB",
+      "cabang_pertandingan": "Voli",
+      "tanggal": "2023-10-05",
+      "jam": "16:00",
+      "venue": "Gor Pancasila",
+      "kategori": "Putra"
+    },
+    {
+      "tim1": "Psikologi",
+      "tim2": "Hukum",
+      "cabang_pertandingan": "Voli",
+      "tanggal": "2023-10-05",
+      "jam": "16:00",
+      "venue": "Gor Pancasila",
+      "kategori": "Putra"
+    },
+    {
+      "tim1": "Filsafat",
+      "tim2": "Peternakan",
+      "cabang_pertandingan": "Futsal",
+      "tanggal": "2023-10-06",
+      "jam": "16:00",
+      "venue": "Gor Pancasila",
+      "kategori": "Putra"
+    },
+    {
+      "tim1": "Geografi",
+      "tim2": "Farmasi",
+      "cabang_pertandingan": "Basket",
+      "tanggal": "2023-10-07",
+      "jam": "16:00",
+      "venue": "Gor Pancasila",
+      "kategori": "Putra"
+    },
+    {
+      "tim1": "MIPA",
+      "tim2": "FEB",
+      "cabang_pertandingan": "Sepak Bola",
+      "tanggal": "2023-10-10",
+      "jam": "16:00",
+      "venue": "Gor Pancasila",
+      "kategori": "Putra"
+    }
+  ]
+}

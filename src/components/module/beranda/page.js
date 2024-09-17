@@ -1,0 +1,6 @@
+export * from './Hero'
+export * from './Timeline'
+export * from './About'
+export * from './Porchi'
+export * from './Cabor'
+export * from './Sponsor'

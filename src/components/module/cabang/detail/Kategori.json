@@ -1,0 +1,433 @@
+{
+    "basket": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Putri"
+        }
+    ],
+    "voli": [
+        {
+            "option": "Voli Putra"
+        },
+        {
+            "option": "Voli Putri"
+        }
+    ],
+    "softball": [
+        {
+            "option": "Campuran Putra"
+        },
+        {
+            "option": "Campuran Putri"
+        }
+    ],
+    "tenis-meja": [
+        {
+            "option": "Tunggal Putra"
+        },
+        {
+            "option": "Tunggal Putri"
+        },
+        {
+            "option": "Ganda Campuran"
+        }
+    ],
+    "atletik": [
+        {
+            "option": "Lari 100 M"
+        },
+        {
+            "option": "Lari 200 M"
+        },
+        {
+            "option": "Lari 400 M"
+        },
+        {
+            "option": "Lari 800 M"
+        },
+        {
+            "option": "Lari 1500 M"
+        },
+        {
+            "option": "Lari Estafet 4x100 M"
+        },
+        {
+            "option": "Lompat Jauh"
+        },
+        {
+            "option": "Tolak Peluru"
+        }
+    ],
+    "panjat-tebing": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Putri"
+        }
+    ],
+    "renang": [
+        {
+            "option": "100m Gaya Bebas Putra"
+        },
+        {
+            "option": "100m Gaya Bebas Putri"
+        },
+        {
+            "option": "100m Gaya Dada Putra"
+        },
+        {
+            "option": "100m Gaya Dada Putri"
+        },
+        {
+            "option": "100m Gaya Kupu Putra"
+        },
+        {
+            "option": "100m Gaya Kupu Putri"
+        },
+        {
+            "option": "100m Gaya Punggung Putra"
+        },
+        {
+            "option": "100m Gaya Punggung Putri"
+        },
+        {
+            "option": "4 x 50 Estafet Gaya Bebas"
+        },
+        {
+            "option": "50m Gaya Bebas Putra"
+        },
+        {
+            "option": "50m Gaya Bebas Putri"
+        },
+        {
+            "option": "50m Gaya Dada Putra"
+        },
+        {
+            "option": "50m Gaya Dada Putri"
+        },
+        {
+            "option": "50m Gaya Kupu Putra"
+        },
+        {
+            "option": "50m Gaya Kupu Putri"
+        },
+        {
+            "option": "50m Gaya Punggung Putra"
+        },
+        {
+            "option": "50m Gaya Punggung Putri"
+        }
+    ]
+    ,
+    "berkuda": [
+        {
+            "option": "Walk Trot 2"
+        },
+        {
+            "option": "Walk Trot 3"
+        }
+    ],
+    "hockey": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Mix"
+        }
+    ],
+    "catur": [
+        {
+            "option": "Kilat Perorangan"
+        },
+        {
+            "option": "Cepat Perorangan"
+        },
+        {
+            "option": "Regu"
+        }
+    ],
+    "bridge": [
+        {
+            "option": "Individu"
+        },
+        {
+            "option": "Pasangan"
+        },
+        {
+            "option": "Regu"
+        }
+    ],
+    "tenis-lapangan": [
+        {
+            "option": "Tunggal Putra"
+        },
+        {
+            "option": "Tunggal Putri"
+        },
+        {
+            "option": "Ganda Putra"
+        },
+        {
+            "option": "Ganda Putri"
+        },
+        {
+            "option": "Ganda Campuran"
+        }
+    ],
+    "selam": [
+        {
+            "option": "100 Biffins Putra"
+        },
+        {
+            "option": "100 Biffins Putri"
+        },
+        {
+            "option": "50 Apnea Putra"
+        },
+        {
+            "option": "50 Apnea Putri"
+        },
+        {
+            "option": "50 Biffins Putra"
+        },
+        {
+            "option": "50 Biffins Putri"
+        },
+        {
+            "option": "50 Monofins Putra"
+        },
+        {
+            "option": "50 Monofins Putri"
+        }
+    ]
+    ,
+    "e-sport": [
+        {
+            "option": "Valorant"
+        },
+        {
+            "option": "Mobile Legends"
+        },
+        {
+            "option": "DOTA 2"
+        },
+        {
+            "option": "Magic Chess"
+        },
+        {
+            "option": "PUBG Mobile"
+        }
+    ],
+    "sepak-bola": [
+        
+    ],
+    "futsal": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Putri"
+        }
+    ],
+    "bulu-tangkis": [
+        {
+            "option": "Tunggal Putra"
+        },
+        {
+            "option": "Tunggal Putri"
+        },
+        {
+            "option": "Ganda Putra"
+        },
+        {
+            "option": "Ganda Putri"
+        },
+        {
+            "option": "Ganda Campuran"
+        },
+        {
+            "option": "Beregu"
+        }
+    ],
+    "judo": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Putri"
+        }
+    ],
+    "taekwondo": [
+        {
+            "option": "Kyourugi Putra"
+        },
+        {
+            "option": "Kyourugi Putri"
+        },
+        {
+            "option": "Poomsae A Putra"
+        },
+        {
+            "option": "Poomsae A Putri"
+        },
+        {
+            "option": "Poomsae B Putra"
+        },
+        {
+            "option": "Poomsae B Putri"
+        }
+        
+    ],
+    "panahan": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Putri"
+        }
+    ],
+    "kempo": [
+        {
+            "option": "Randori 65+ Kg Putra"
+        },
+        {
+            "option": "Randori 60-65kg putra"
+        },
+        {
+            "option": "Randori 50-55 Kg Putra"
+        },
+        {
+            "option": "Randori 50-55 Kg Putri"
+        },
+        {
+            "option": "Randori 45-50 kg Putri"
+        },
+        {
+            "option": "Randori 55-60 Kg Putra"
+        },
+        {
+            "option": "Randori 60-65 Kg Putra"
+        },
+        {
+            "option": "Randori 65+ Kg putra"
+        },
+        {
+            "option": "Randori 60-65 Kg Putri"
+        },
+        {
+            "option": "Randori 65+ Kg Putri"
+        }
+    ]
+    ,
+    "karate": [
+        {
+            "option": "Kata Perorangan"
+        },
+        {
+            "option": "Kumite"
+        }
+    ],
+    "pencak-silat": [
+        {
+            "option": "A (45-50 Kg) Putra"
+        },
+        {
+            "option": "A (45-50 Kg) Putri"
+        },
+        {
+            "option": "B (50-55 Kg) Putra"
+        },
+        {
+            "option": "B (50-55 Kg) Putri"
+        },
+        {
+            "option": "C (55-60 Kg) Putra"
+        },
+        {
+            "option": "C (55-60 Kg) Putri"
+        },
+        {
+            "option": "D (60-65 Kg) Putra"
+        },
+        {
+            "option": "D (60-65 Kg) Putri"
+        },
+        {
+            "option": "E (65-70 Kg) Putra"
+        },
+        {
+            "option": "E (65-70 Kg) Putri"
+        },
+        {
+            "option": "F (70-75 Kg) Putra"
+        },
+        {
+            "option": "F (70-75 Kg) Putri"
+        },
+        {
+            "option": "G (75-80 Kg) Putra"
+        },
+        {
+            "option": "Seni Tunggal Putra"
+        },
+        {
+            "option": "Seni Tunggal Putri"
+        },
+        {
+            "option": "Under A (<45 Kg) Putri"
+        }
+    ]
+    ,
+    "lukis-tradisional": [
+
+    ],
+    "fotografi": [
+
+    ],
+    "band": [
+
+    ],
+    "cipta-puisi": [
+
+    ],
+    "vokal-group": [
+
+    ],
+    "naskah-lakon": [
+
+    ],
+    "vokal-keroncong": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Putri"
+        }
+    ],
+    "vokal-seriosa": [
+        {
+            "option": "Putra"
+        },
+        {
+            "option": "Putri"
+        }
+    ],
+    "tari-modern": [
+
+    ],
+    "monolog": [
+
+    ],
+    "tari-tradisional": [
+
+    ],
+    "komik-strip": [
+
+    ],
+    "poster": [
+
+    ]
+}

@@ -1,0 +1,870 @@
+[
+  {
+    "id": "1.1",
+    "category": "olahraga",
+    "subcategory": "atletik",
+    "question": "Nomor apa saja yang dilombakan pada cabang olahraga atletik di Porsenigama 2023?",
+    "answer": "Lari (100m, 200m, 400m, 800m, 1500m, dan estafet 4x100m), lompat jauh, dan tolak peluru."
+  },
+  {
+    "id": "1.2",
+    "category": "olahraga",
+    "subcategory": "atletik",
+    "question": "Bagaimana cara menentukan urutan dan lintasan peserta perlombaan pada cabang olahraga atletik?",
+    "answer": "Penentuan urutan dan lintasan peserta perlombaan akan dilakukan pengundian sesuai ketentuan pasal 166 Peraturan IAAF."
+  },
+  {
+    "id": "1.3",
+    "category": "olahraga",
+    "subcategory": "atletik",
+    "question": " Siapa saja yang berhak memasuki babak final pada nomor lari putra dan putri cabang olahraga atletik?",
+    "answer": ""
+  },
+  {
+    "id": "2.1",
+    "category": "olahraga",
+    "subcategory": "basket",
+    "question": "Bagaimana sistem pertandingan dan peraturan pertandingan bola basket?",
+    "answer": "Porsenigama menggunakan sistem gugur dan menggunakan peraturan FIBA."
+  },
+  {
+    "id": "2.2",
+    "category": "olahraga",
+    "subcategory": "basket",
+    "question": "Bagaimana penentuan bagan lawan pertandingan pada cabang olahraga bola basket?",
+    "answer": "Bagan lawan pertandingan akan dilaksanakan saat technical meeting dengan sistem undian."
+  },
+  {
+    "id": "2.3",
+    "category": "olahraga",
+    "subcategory": "basket",
+    "question": "Bagaimana kebijakan Walkover (WO) pada cabang olahraga bola basket?",
+    "answer": "Tim yang belum hadir lebih dari 10 menit dari jadwal yang ditentukan akan dianggap mengundurkan diri. Lawan akan diberikan poin kemenangan 20-0."
+  },
+  {
+    "id": "3.1",
+    "category": "olahraga",
+    "subcategory": "berkuda",
+    "question": "Berapa jumlah maksimal atlet cabang olahraga berkuda dari satu Fakultas/Sekolah?",
+    "answer": "Setiap Fakultas/Sekolah dapat mengirimkan maksimal 3 atlet."
+  },
+  {
+    "id": "3.2",
+    "category": "olahraga",
+    "subcategory": "berkuda",
+    "question": "Apakah satu atlet berkuda dapat bertanding dalam kedua nomor lomba?",
+    "answer": "Boleh."
+  },
+  {
+    "id": "3.3",
+    "category": "olahraga",
+    "subcategory": "berkuda",
+    "question": "Apakah diperbolehkan untuk melatih kuda sebagai pemanasan?",
+    "answer": "Ya, boleh: Horse warm up on saddle."
+  },
+  {
+    "id": "4.1",
+    "category": "olahraga",
+    "subcategory": "bridge",
+    "question": "Pada cabang olahraga bridge, pembuatan akun BBO hanya wajib bagi yang mendaftar kategori individu atau untuk seluruh kategori (pasangan, beregu) juga?",
+    "answer": "Akun BBO hanya berlaku untuk pendaftar kategori individu karena perlombaan dilaksanakan secara daring. Sedangkan untuk kategori pasangan dan beregu dilaksanakan secara luring, sehingga tidak memerlukan akun BBO."
+  },
+  {
+    "id": "4.2",
+    "category": "olahraga",
+    "subcategory": "bridge",
+    "question": "Sistem pertandingan apa yang digunakan pada cabang olahraga bridge?",
+    "answer": "Sistem pertandingan Swiss."
+  },
+  {
+    "id": "4.3",
+    "category": "olahraga",
+    "subcategory": "bridge",
+    "question": "Dalam cabang olahraga bridge, apabila peserta merasa terdapat kesalahan dalam penilaian, apa yang bisa dilakukan?",
+    "answer": " Jika ada kesalahan dalam hasil skor maka peserta dapat mengajukan komplain pada saat sesi check score."
+  },
+  {
+    "id": "5.1",
+    "category": "olahraga",
+    "subcategory": "bulutangkis",
+    "question": "Dalam cabang olahraga bulutangkis, apakah ada perbedaan aturan antara atlet PBUB dan atlet biasa (bukan PBUB) yang ingin ikut berpartisipasi?",
+    "answer": "Pemain PBUB hanya diperbolehkan bermain dalam 1 nomor pertandingan. Sedangkan atlet biasa (bukan PBUB) diperbolehkan bermain rangkap dalam 2 nomor pertandingan."
+  },
+  {
+    "id": "5.2",
+    "category": "olahraga",
+    "subcategory": "bulutangkis",
+    "question": "Bagaimana peraturan dan sistem scoring yang digunakan dalam pertandingan bulutangkis Porsenigama 2023?",
+    "answer": "Kejuaraan ini sepenuhnya mengikuti peraturan-peraturan permainan bulutangkis dari PBSI menggunakan sistem gugur dan game Rally Point 21 dengan prinsip 2x kemenangan."
+  },
+  {
+    "id": "5.3",
+    "category": "olahraga",
+    "subcategory": "bulutangkis",
+    "question": "Berapa jumlah atlet pada pertandingan beregu campuran?",
+    "answer": "Satu tim minimal terdiri atas 4 pemain (2 putra, 2 putri). Kuota maksimal yaitu 10 pemain."
+  },
+  {
+    "id": "6.1",
+    "category": "olahraga",
+    "subcategory": "catur",
+    "question": "Apa peraturan yang digunakan pada cabang olahraga catur?",
+    "answer": "Peraturan FIDE tahun 2018 yang dapat dilihat pada https://bit.ly/3PdFVpD."
+  },
+  {
+    "id": "6.2",
+    "category": "olahraga",
+    "subcategory": "catur",
+    "question": "Berapa jumlah pemain dalam nomor lomba catur cepat beregu?",
+    "answer": "Berjumlah 4 orang dengan minimal satu orang putri atau putra."
+  },
+  {
+    "id": "6.3",
+    "category": "olahraga",
+    "subcategory": "catur",
+    "question": "Apakah atlet diperbolehkan mengikuti lebih dari 1 nomor lomba catur?",
+    "answer": "Atlet diperbolehkan mengikuti dua nomor pertandingan dengan catatan, salah satu dari kedua nomor yang dipilih merupakan nomor pertandingan beregu."
+  },
+  {
+    "id": "7.1",
+    "category": "olahraga",
+    "subcategory": "e-sport",
+    "question": "Apakah diperbolehkan menggunakan tab sebagai device permainan E-Sport MLBB?",
+    "answer": "Tim hanya diperbolehkan menggunakan smartphone dan apabila menggunakan alat selain smartphone, maka akan didiskualifikasi secara langsung tanpa toleransi."
+  },
+  {
+    "id": "7.2",
+    "category": "olahraga",
+    "subcategory": "e-sport",
+    "question": "Apakah diperbolehkan melakukan pergantian nickname dalam cabang olahraga E-Sport?",
+    "answer": "Nickname yang sudah didaftarkan tidak boleh diubah hingga turnamen berakhir. Jika terdapat perubahan maka harus disetujui panitia maksimum saat technical meeting turnamen."
+  },
+  {
+    "id": "7.3",
+    "category": "olahraga",
+    "subcategory": "e-sport",
+    "question": "Bagaimana jika terdapat kendala di saat berlangsungnya pertandingan E-Sport magic chess?",
+    "answer": "Apabila peserta disconnect, error, dll, maka pertandingan tetap dilanjutkan."
+  },
+  {
+    "id": "7.4",
+    "category": "olahraga",
+    "subcategory": "e-sport",
+    "question": "Bagaimana penentuan pemenang apabila dua tim E-Sport PUBGM memperoleh jumlah poin yang sama?",
+    "answer": "Penilaian akan didasarkan pada (a) Total Winner-Winner Chicken Dinner, (b) Total Akumulasi Poin Placement, (c) Total jumlah Poin Elimination, dan (d) Posisi atau hashtag dalam pertandingan terakhir."
+  },
+  {
+    "id": "7.5",
+    "category": "olahraga",
+    "subcategory": "e-sport",
+    "question": "Sistem apa yang digunakan untuk pertandingan E-Sport Valorant Porsenigama?",
+    "answer": "Porsenigama menggunakan sistem pertandingan double elimination."
+  },
+  {
+    "id": "7.6",
+    "category": "olahraga",
+    "subcategory": "e-sport",
+    "question": "Bagaimana teknis pertandingan E-Sport DOTA 2 Porsenigama?",
+    "answer": "Porsenigama menggunakan sistem single elimination, Captain Mode, secara daring serta luring."
+  },
+  {
+    "id": "8.1",
+    "category": "olahraga",
+    "subcategory": "futsal",
+    "question": "Berapa jumlah pemain dalam satu tim cabang olahraga futsal?",
+    "answer": "Setiap tim terdiri dari 20 orang, terdiri dari: 14 players infield (5 pemain inti dan 9 pemain cadangan) dan 6 official (terdiri dari 1 pelatih, 2 manajer, 2 medis, dan 1 dokumentasi)."
+  },
+  {
+    "id": "8.2",
+    "category": "olahraga",
+    "subcategory": "futsal",
+    "question": "Apakah uang deposit diwajibkan bagi setiap tim futsal?",
+    "answer": "Setiap tim wajib membawa uang jaminan/deposit pada saat Technical meeting sejumlah Rp100.000,00 (diharuskan uang cash) dan diserahkan saat registrasi."
+  },
+  {
+    "id": "8.3",
+    "category": "olahraga",
+    "subcategory": "futsal",
+    "question": "Bagaimana sistem peraturan dan lama pertandingan yang digunakan pada cabang olahraga futsal tahun ini?",
+    "answer": "Peraturan yang digunakan pada kegiatan ini diadaptasi dari peraturan FIFA pada umumnya. Kemudian Lama pertandingan babak penyisihan futsal putra/putri adalah 2x15 menit waktu kotor sedangkan pada babak Semifinal dan Final futsal putra/putri adalah 2x20 menit waktu kotor."
+  },
+  {
+    "id": "8.4",
+    "category": "olahraga",
+    "subcategory": "futsal",
+    "question": "Apakah nomor punggung setiap pemain futsal boleh berubah?",
+    "answer": "Setiap pemain hanya memiliki 1 nomor punggung hingga berakhirnya kompetisi."
+  },
+  {
+    "id": "9.1",
+    "category": "olahraga",
+    "subcategory": "hockey",
+    "question": "Berapa waktu permainan untuk cabang olahraga hockey?",
+    "answer": "Pada babak penyisihan grup waktu permainan selama 2x10 menit sedangkan pada semifinal,perebutan juara 3, dan final selama 2x15 menit."
+  },
+  {
+    "id": "9.2",
+    "category": "olahraga",
+    "subcategory": "hockey",
+    "question": "Dalam cabang olahraga hockey, bagaimana cara menentukan pemenang grup ketika terdapat poin yang sama pada salah satu grup?",
+    "answer": "Jika poin sama, akan ditentukan dengan selisih goal. Jika selisih gol sama, akan ditentukan dengan jumlah gol yang dicetak. Jika jumlah gol masih sama, maka akan ditentukan dengan shootout competition."
+  },
+  {
+    "id": "9.3",
+    "category": "olahraga",
+    "subcategory": "hockey",
+    "question": "Berapa jumlah pemain yang harus dikirim pada setiap tim hockey?",
+    "answer": "Satu tim berisi minimal 6 pemain dan maksimal 12 pemain termasuk pemain cadangan. pada tim kategori mix wajib terdiri dari 3 laki-laki dan 3 perempuan."
+  },
+  {
+    "id": "10.1",
+    "category": "olahraga",
+    "subcategory": "judo",
+    "question": "Apakah satu atlet bisa mengikuti semua kategori lomba Judo?",
+    "answer": "Peserta/atlet diperbolehkan mengikuti semua kategori lomba Judo."
+  },
+  {
+    "id": "10.2",
+    "category": "olahraga",
+    "subcategory": "judo",
+    "question": "Dalam cabang olahraga judo, apakah judogi-nya harus dibawa satu set lengkap? Jika ada yang tertinggal (ex: ikat pinggang) apakah disediakan panitia?",
+    "answer": ""
+  },
+  {
+    "id": "10.3",
+    "category": "olahraga",
+    "subcategory": "judo",
+    "question": "Bagaimana jika peserta judo tidak dapat hadir pada saat undian?",
+    "answer": "Dapat diwakili oleh official, namun alangkah baiknya jika peserta dapat hadir dan melakukan undian secara langsung."
+  },
+  {
+    "id": "11.1",
+    "category": "olahraga",
+    "subcategory": "karate",
+    "question": "Apakah boleh apabila fakultas/sekolah ingin mengajukan lebih dari satu atlet pada satu kelas di karate?",
+    "answer": "Diperbolehkan dan tidak ada batasan jumlah atlet untuk setiap fakultas/sekolah di karate."
+  },
+  {
+    "id": "11.2",
+    "category": "olahraga",
+    "subcategory": "karate",
+    "question": "Peraturan pertandingan karate nantinya bersumber dari apa?",
+    "answer": "Peraturan pertandingan karate bersumber dari peraturan World Karate Federation (WKF)."
+  },
+  {
+    "id": "11.3",
+    "category": "olahraga",
+    "subcategory": "karate",
+    "question": "Dalam cabang olahraga karate, bagaimana skema penentuan pemenang apabila poin imbang pada pertandingan Kata?",
+    "answer": "Apabila terjadi hal demikian, pemenang akan ditentukan berdasarkan nilai tertinggi sebelum poin diakumulasi."
+  },
+  {
+    "id": "12.1",
+    "category": "olahraga",
+    "subcategory": "kempo",
+    "question": "Bagaimana penentuan Kelas Randori setiap peserta cabang olahraga kempo?",
+    "answer": "Peserta akan ditimbang satu hari sebelum pertandingan. Kelas Randori akan ditentukan sesuai dengan berat badan peserta saat itu."
+  },
+  {
+    "id": "12.2",
+    "category": "olahraga",
+    "subcategory": "kempo",
+    "question": "Bagaimana kebijakan panitia jika saat pertandingan berlangsung, berat badan peserta tidak sesuai dengan kelasnya?",
+    "answer": "Akan dilakukan pengguguran kecuali hal-hal tertentu yang membuat pengguguran tidak wajib dilakukan."
+  },
+  {
+    "id": "12.3",
+    "category": "olahraga",
+    "subcategory": "kempo",
+    "question": "Apakah ada maksimal jumlah peserta yang mewakili satu fakultas/sekolah untuk cabang olahraga kempo?",
+    "answer": ""
+  },
+  {
+    "id": "13.1",
+    "category": "olahraga",
+    "subcategory": "renang",
+    "question": "Nomor apa saja yang diperlombakan pada cabang olahraga renang di Porsenigama 2023?",
+    "answer": "50m dan 100m Gaya Bebas, 50m dan 100m Gaya Dada, 50m dan 100m Gaya Kupu, 50m dan 100m Gaya Punggung, serta 4x50 Estafet Gaya Bebas Campuran yang terdiri dari 2 putra dan 2 putri."
+  },
+  {
+    "id": "13.2",
+    "category": "olahraga",
+    "subcategory": "renang",
+    "question": "Sistem pertandingan apa yang digunakan dalam cabang olahraga renang?",
+    "answer": "Sistem pertandingan yang digunakan adalah time final atau satu kali start."
+  },
+  {
+    "id": "13.3",
+    "category": "olahraga",
+    "subcategory": "renang",
+    "question": "Apakah boleh mengenakan baju bebas saat bertanding dalam cabang olahraga renang?",
+    "answer": "Tidak, Peserta wajib mengenakan pakaian renang ketika bertanding."
+  },
+  {
+    "id": "14.1",
+    "category": "olahraga",
+    "subcategory": "air selam",
+    "question": "Nomor apa saja yang diperlombakan pada cabang olahraga air selam di Porsenigama 2023?",
+    "answer": "50 Bifins, 100 bifins, 50 monofins, serta 50 apnea untuk campuran."
+  },
+  {
+    "id": "14.2",
+    "category": "olahraga",
+    "subcategory": "air selam",
+    "question": "Di mana pelaksanaan cabang olahraga selam Porsenigama 2023 berlangsung?",
+    "answer": "Kolam Renang FIK UNY."
+  },
+  {
+    "id": "14.3",
+    "category": "olahraga",
+    "subcategory": "air selam",
+    "question": "Peralatan apa saja yang perlu dipersiapkan peserta cabang olahraga air selam?",
+    "answer": "Kacamata, baju renang, dan fins/snorkel. Jika tidak memiliki fins/snorkel dapat meminjam alat Unit Selam UGM."
+  },
+  {
+    "id": "15.1",
+    "category": "olahraga",
+    "subcategory": "panahan",
+    "question": "Apakah ada peraturan khusus bagi atlet UKM Panahan UGM yang ingin berpartisipasi dalam perlombaan?",
+    "answer": "Peserta yang tergabung dalam atlet UKM Panahan UGM (sudah pernah bertanding membawa nama UGM) tidak diperkenankan mengikuti pertandingan."
+  },
+  {
+    "id": "15.2",
+    "category": "olahraga",
+    "subcategory": "panahan",
+    "question": "Bagaimana sistem Walkover (WO) pada cabang olahraga panahan?",
+    "answer": "Peserta dinyatakan gugur apabila tidak mengikuti seluruh rangkaian pertandingan."
+  },
+  {
+    "id": "15.3",
+    "category": "olahraga",
+    "subcategory": "panahan",
+    "question": "Berapa jumlah peserta minimal pada cabang olahraga panahan?",
+    "answer": "(1) Beregu minimal terdiri dari 5 tim putra dan 5 tim putri dari sekolah atau fakultas yang berbeda (apabila hanya ada salah satu dari kedua kategori memenuhi kuota minimal, maka kategori tersebut akan tetap dilaksanakan). (2)Mix Team minimal terdiri dari 5 tim putra dan putri dari sekolah atau fakultas yang berbeda."
+  },
+  {
+    "id": "15.4",
+    "category": "olahraga",
+    "subcategory": "panahan",
+    "question": "Peraturan pertandingan apa yang digunakan pada cabang olahraga panahan?",
+    "answer": "Peraturan yang digunakan pada kegiatan ini bersumber/diadaptasi dari peraturan Federation of International Target Archers (FITA)."
+  },
+  {
+    "id": "16.1",
+    "category": "olahraga",
+    "subcategory": "panjat tebing",
+    "question": "Bagaimana cara menentukan urutan pemanjatan (starting list) atlet panjat tebing?",
+    "answer": "Urutan pemanjatan ditentukan secara random oleh panitia dan diumumkan pada saat technical meeting."
+  },
+  {
+    "id": "16.2",
+    "category": "olahraga",
+    "subcategory": "panjat tebing",
+    "question": "Apakah semua peralatan untuk panjat tebing akan disediakan oleh panitia?",
+    "answer": "Panitia hanya menyediakan peralatan berupa bubuk magnesium serta peralatan penunjang perlombaan (tali karmantel, carabiner,dll). Selebihnya seperti sepatu panjat, harness, dan chalk bag merupakan tanggung jawab peserta."
+  },
+  {
+    "id": "16.3",
+    "category": "olahraga",
+    "subcategory": "panjat tebing",
+    "question": "Dalam cabang olahraga panjat tebing, apakah dibolehkan untuk terjadi pertukaran atlet?",
+    "answer": "Dilarang menukar atlet setelah babak kualifikasi dimulai."
+  },
+  {
+    "id": "17.1",
+    "category": "olahraga",
+    "subcategory": "pencak silat",
+    "question": "Apakah peserta diperbolehkan mengikuti dua kategori cabang olahraga pencak silat?",
+    "answer": "Peserta diperbolehkan mengikuti dua kategori yaitu kategori seni dan tanding."
+  },
+  {
+    "id": "17.2",
+    "category": "olahraga",
+    "subcategory": "pencak silat",
+    "question": "Apakah peserta pencak silat harus membawa seluruh peralatan pertandingan sendiri baik kategori tanding maupun seni?",
+    "answer": "Untuk kategori tanding, panitia akan menyediakan body protector tetapi panitia tidak menyediakan pelindung kemaluan. Sedangkan untuk kategori seni, berupa alat pribadi diharapkan dibawa oleh masing-masing peserta."
+  },
+  {
+    "id": "17.3",
+    "category": "olahraga",
+    "subcategory": "pencak silat",
+    "question": "Apa saja prasyarat kondisi fisik untuk berpartisipasi dalam cabang olahraga pencak silat?",
+    "answer": "Sebelum peserta bertanding akan dilakukan penimbangan, tes doping, dan pemeriksaan kesehatan. Apabila tidak gagal dalam tiga pemeriksaan tersebut maka peserta akan dianggap Walkover (WO)."
+  },
+  {
+    "id": "18.1",
+    "category": "olahraga",
+    "subcategory": "sepak bola",
+    "question": "Apakah terdapat penghargaan individu di cabang olahraga sepak bola?",
+    "answer": "Ada, penghargaan individu diantaranya TOP SCORER, BEST PLAYER, BEST GOALKEEPER, dan MAN OF THE MATCH."
+  },
+  {
+    "id": "18.2",
+    "category": "olahraga",
+    "subcategory": "sepak bola",
+    "question": "Dalam cabang olahraga sepak bola, berapa denda yang harus dibayarkan oleh pemain apabila mendapatkan sanksi?",
+    "answer": "Pemain yang mendapatkan kartu kuning wajib membayar denda sebesar Rp20.000, sedangkan pemain yang mendapatkan kartu merah wajib membayar denda sebesar Rp40.000."
+  },
+  {
+    "id": "18.3",
+    "category": "olahraga",
+    "subcategory": "sepak bola",
+    "question": "Bagaimana skema pengundian dan jadwal pertandingan cabang olahraga sepak bola?",
+    "answer": "Pengundian dan penentuan jadwal pertandingan akan berlangsung saat Technical Meeting pada 15 Oktober 2023."
+  },
+  {
+    "id": "19.1",
+    "category": "olahraga",
+    "subcategory": "softball",
+    "question": "Jenis Groundrules apa yang digunakan pada pertandingan softball Porsenigama 2023?",
+    "answer": "Groundrules yang digunakan adalah Modified Pitch yaitu dengan pitching setengah lingkaran (dengan strike zone yang lebih diperbesar)."
+  },
+  {
+    "id": "19.2",
+    "category": "olahraga",
+    "subcategory": "softball",
+    "question": "Bagaimana Mercy Rules yang diterapkan pada pertandingan softball Porsenigama?",
+    "answer": "Mercy Rules akan berlaku apabila pada Inning 3 terdapat selisih poin sebanyak 15 poin, Inning 4 sebanyak 10 poin, dan Inning 5 sebanyak 7 poin, maka pertandingan dinyatakan selesai."
+  },
+  {
+    "id": "19.3",
+    "category": "olahraga",
+    "subcategory": "softball",
+    "question": "Apakah diperbolehkan untuk meminjam peralatan softball milik UKM Softball Baseball UGM?",
+    "answer": "Boleh, dengan persyaratan wajib menandatangani terlebih dahulu Mou Peminjaman Alat yang akan disediakan oleh panitia cabang softball Porsenigama 2023."
+  },
+  {
+    "id": "20.1",
+    "category": "olahraga",
+    "subcategory": "taekwondo",
+    "question": "Dalam cabang olahraga taekwondo, baik kyorugi/poomsae ada batasan usia tidak?",
+    "answer": ""
+  },
+  {
+    "id": "20.2",
+    "category": "olahraga",
+    "subcategory": "taekwondo",
+    "question": "Dalam cabang olahraga taekwondo, kategori poomsae apakah dijadikan satu atau per sabuk?",
+    "answer": ""
+  },
+  {
+    "id": "20.3",
+    "category": "olahraga",
+    "subcategory": "taekwondo",
+    "question": "Dalam cabang olahraga taekwondo, apakah Kyorugi menggunakan dss/pss?",
+    "answer": ""
+  },
+  {
+    "id": "21.1",
+    "category": "olahraga",
+    "subcategory": "tenis lapangan",
+    "question": "Peraturan pertandingan tenis lapangan nantinya bersumber dari apa?",
+    "answer": "Peraturan akan bersumber dari peraturan nasional PP PELTI."
+  },
+  {
+    "id": "21.2",
+    "category": "olahraga",
+    "subcategory": "tenis lapangan",
+    "question": "Adakah jumlah maksimal perwakilan yang dapat dikirimkan oleh fakultas pada setiap nomor lomba tenis lapangan?",
+    "answer": "Setiap fakultas/sekolah dapat mengirimkan maksimal 2 perwakilan (2 atlet atau 2 pasang) pada setiap nomor lomba."
+  },
+  {
+    "id": "21.3",
+    "category": "olahraga",
+    "subcategory": "tenis lapangan",
+    "question": "Bagaimana skema perhitungan pada pertandingan tenis lapangan?",
+    "answer": "Perhitungan akan menggunakan sistem proset No Add (tidak ada deuce)."
+  },
+  {
+    "id": "22.1",
+    "category": "olahraga",
+    "subcategory": "tenis meja",
+    "question": "Berapa jumlah time out yang diberikan pada pemain pada setiap satu pertandingan tenis meja?",
+    "answer": "Pemain hanya diperbolehkan time out 1 kali dalam 1 game."
+  },
+  {
+    "id": "22.2",
+    "category": "olahraga",
+    "subcategory": "tenis meja",
+    "question": "Berapa total set pada setiap satu pertandingan tenis meja?",
+    "answer": "Total set-nya ialah best of 5 (yang berarti bisa 3-0, 3-1, 3-2)."
+  },
+  {
+    "id": "22.3",
+    "category": "olahraga",
+    "subcategory": "tenis meja",
+    "question": "Bagaimana sistem servis pada nomor Ganda Campuran tenis meja?",
+    "answer": "Servis harus dari sisi kanan dan menyerong (kalau tidak serong lawan akan mendapatkan poin). Pergantian pemain servis terjadi ketika poin mencapai kelipatan 2."
+  },
+  {
+    "id": "23.1",
+    "category": "olahraga",
+    "subcategory": "voli",
+    "question": "Berapa jumlah maksimal tim voli yang dikirimkan oleh fakultas/sekolah?",
+    "answer": "Hanya 1 tim putra dan 1 tim putri dari tiap fakultas/sekolah, di mana dalam 1 tim tersebut terdapat maksimal 14 pemain (12 pemain inti, 2 libero). Kemudian, libero bersifat opsional yang artinya diperbolehkan untuk menggunakan libero atau tidak, namun jika tidak menggunakan libero maka maksimal jumlah pemain dalam 1 tim sebanyak 12 pemain saja."
+  },
+  {
+    "id": "23.2",
+    "category": "olahraga",
+    "subcategory": "voli",
+    "question": "Bagaimana sistem pertandingan yang diterapkan dalam cabang olahraga voli?",
+    "answer": "Sistem pertandingan voli yang digunakan adalah sistem dengan menggunakan two winning set dari penyisihan hingga babak 8 besar, dan pada babak semifinal dan final menggunakan three winning set."
+  },
+  {
+    "id": "23.3",
+    "category": "olahraga",
+    "subcategory": "voli",
+    "question": "Bagaimana bentuk kegiatan Opening  Ceremony voli? Kemudian, apakah perwakilan 6-7 orang dari setiap tim untuk mengikuti Opening Ceremony akan diberi briefing dan gladi?",
+    "answer": ""
+  },
+  {
+    "id": "24.1",
+    "category": "seni",
+    "subcategory": "band z-fest",
+    "question": "Dalam tangkai seni Band Z-Fest, apakah tetap wajib datang jam 9 pagi jika mendapat jadwal tampil yang masih jauh?",
+    "answer": "Iya, untuk keperluan registrasi."
+  },
+  {
+    "id": "24.2",
+    "category": "seni",
+    "subcategory": "band z-fest",
+    "question": "Berkas khusus apa yang harus dipenuhi oleh kontingen Band Z-Fest? Kepada siapa dan dalam format apa berkas tersebut dikirim?",
+    "answer": ""
+  },
+  {
+    "id": "24.3",
+    "category": "seni",
+    "subcategory": "band z-fest",
+    "question": "Apakah akan ada gladi bagi kontingen Band Z-Fest atau check sound sebelum tampil pada hari H?",
+    "answer": ""
+  },
+  {
+    "id": "25.1",
+    "category": "seni",
+    "subcategory": "cipta puisi",
+    "question": "Apakah ada tema tertentu untuk perlombaan cipta puisi tahun ini?",
+    "answer": "Tema untuk cipta puisi tahun ini adalah 'Lestari Budaya dan Kearifan Lokal,' yang merepresentasikan mahasiswa dalam menjunjung kelestarian keragaman budaya Indonesia."
+  },
+  {
+    "id": "25.2",
+    "category": "seni",
+    "subcategory": "cipta puisi",
+    "question": "Apakah diperbolehkan apabila puisi yang diserahkan pada Porsenigama 2023 juga diikutsertakan pada perlombaan lain?",
+    "answer": "Puisi yang diikutsertakan di Porsenigama tidak boleh diikutsertakan juga di perlombaan lainnya. Adapun karya puisi yang masuk nantinya menjadi hak milik panitia Porsenigama."
+  },
+  {
+    "id": "25.3",
+    "category": "seni",
+    "subcategory": "cipta puisi",
+    "question": "Pembuatan dan pengumpulan karya cipta puisi akan diselenggarakan di mana?",
+    "answer": "Periode pengumpulan karya akan dilaksanakan secara online pada tanggal 25 Oktober - 2 November 2023."
+  },
+  {
+    "id": "26.1",
+    "category": "seni",
+    "subcategory": "fotografi",
+    "question": "Apa tema untuk tangkai seni fotografi yang akan dilombakan?",
+    "answer": "Tema yang akan diusung adalah 'Semangat Juang'."
+  },
+  {
+    "id": "26.2",
+    "category": "seni",
+    "subcategory": "fotografi",
+    "question": "Apakah seniman fotografi yang merupakan anggota Unit Fotografi (UFO) UGM dapat menjadi peserta?",
+    "answer": "Seniman yang dapat mengikuti perlombaan harus dipastikan bukan merupakan anggota Unit Fotografi (UFO) UGM."
+  },
+  {
+    "id": "26.3",
+    "category": "seni",
+    "subcategory": "fotografi",
+    "question": "Apakah diperbolehkan mengirimkan karya fotografi yang sebelumnya sudah pernah diikutsertakan pada perlombaan lain?",
+    "answer": "Karya yang dikirimkan tidak boleh diikutsertakan pada perlombaan lain sebelumnya."
+  },
+  {
+    "id": "27.1",
+    "category": "seni",
+    "subcategory": "komik strip",
+    "question": "Tema apa yang akan digunakan pada perlombaan komik strip Porsenigama 2023?",
+    "answer": "'Perjalanan Menuju Harmoni Global'"
+  },
+  {
+    "id": "27.2",
+    "category": "seni",
+    "subcategory": "komik strip",
+    "question": "Media karya apa yang akan digunakan untuk tangkai seni komik strip?",
+    "answer": "Media karya berupa kertas A2, dengan range gsm nya 120-200."
+  },
+  {
+    "id": "27.3",
+    "category": "seni",
+    "subcategory": "komik strip",
+    "question": "Apa saja peralatan dan barang-barang yang perlu dibawa oleh peserta lomba tangkai seni komik strip?",
+    "answer": "(1) Alat tulis (pensil, spidol, penggaris, penghapus, bolpoin/pena, dll). (2) Pewarna (Crayon, Cat Akrilik, Pensil Warna, dll). dan (3)Alat lukis (Palet, Kuas, dll)."
+  },
+  {
+    "id": "28.1",
+    "category": "seni",
+    "subcategory": "lukis tradisional",
+    "question": "Apakah semua peralatan lukis tradisional telah disiapkan panitia?",
+    "answer": "Panitia hanya menyediakan media berupa kanvas A2 serta meja dan kursi untuk peserta. Peralatan seperti alat tulis, cat acrylic, pallet dan kuas lukis, serta easel mini/duduk merupakan tanggung jawab peserta."
+  },
+  {
+    "id": "28.2",
+    "category": "seni",
+    "subcategory": "lukis tradisional",
+    "question": "Apakah ada ketentuan khusus mengenai jenis cat yang digunakan dalam tangkai seni lukis tradisional?",
+    "answer": "Peserta menggunakan cat acrylic dengan merk bebas dan tidak diperbolehkan menggunakan varnish spray."
+  },
+  {
+    "id": "28.3",
+    "category": "seni",
+    "subcategory": "lukis tradisional",
+    "question": "Apakah tema lomba lukis tradisional dibebaskan kepada peserta?",
+    "answer": "Porsenigama 2023 telah menentukan tema “Perjalanan Menuju Harmoni Global” yang mencerminkan pandangan tentang bagaimana tindakan-tindakan kita dapat berkontribusi pada kesejahteraan global dan keharmonisan."
+  },
+  {
+    "id": "29.1",
+    "category": "seni",
+    "subcategory": "monolog",
+    "question": "Dalam tangkai seni monolog, apakah panitia menyediakan properti tambahan? Lalu, saat loading dan unloading property apakah hanya dilakukan oleh peserta dan official team atau panitia akan ikut membantu?",
+    "answer": "Panitia tidak menyediakan properti tambahan apapun, jadi jika dirasa memerlukan properti alangkah baiknya dipersiapkan secara mandiri yang nantinya ketika loading barang akan dibantu oleh official dan panitia."
+  },
+  {
+    "id": "29.2",
+    "category": "seni",
+    "subcategory": "monolog",
+    "question": "Apakah crew pembantu peserta pada tangkai seni monolog berbeda dengan official?",
+    "answer": "Betul, crew pembantu peserta adalah orang yang terdiri dari penanggung jawa lighting, sound, dan stage manager."
+  },
+  {
+    "id": "29.3",
+    "category": "seni",
+    "subcategory": "monolog",
+    "question": "Apakah ada ruangan backstage untuk peserta tangkai seni monolog dan crew pembantu sebelum tampil?",
+    "answer": ""
+  },
+  {
+    "id": "29.4",
+    "category": "seni",
+    "subcategory": "monolog",
+    "question": "Apakah naskah untuk lomba tangkai seni monolog boleh diubah?",
+    "answer": "Boleh, namun tidak merubah konteks/tema teks secara utuh dan tetap disesuaikan dengan maksimal durasi."
+  },
+  {
+    "id": "30.1",
+    "category": "seni",
+    "subcategory": "naskah lakon",
+    "question": "Apakah setiap fakultas/sekolah dapat mengirimkan lebih dari satu perwakilan pada perlombaan tangkai seni naskah lakon?",
+    "answer": "Setiap fakultas/sekolah hanya dapat mengirimkan satu perwakilan pada perlombaan naskah lakon."
+  },
+  {
+    "id": "30.2",
+    "category": "seni",
+    "subcategory": "naskah lakon",
+    "question": "Apakah panitia menyediakan peralatan pada saat perlombaan naskah lakon?",
+    "answer": "Panitia akan menyediakan peralatan berupa proyektor LCD, mikrofon, laptop, roll kabel, dan sound system."
+  },
+  {
+    "id": "30.3",
+    "category": "seni",
+    "subcategory": "naskah lakon",
+    "question": "Naskah lakon yang dikehendaki berbahasa apa?",
+    "answer": "Naskah lakon harus berbahasa Indonesia."
+  },
+  {
+    "id": "31.1",
+    "category": "seni",
+    "subcategory": "poster digital",
+    "question": "Apakah panitia menentukan perangkat (software) gambar tertentu untuk perlombaan poster digital?",
+    "answer": "Setiap peserta dibebaskan menggunakan software gambar apa saja (Clip Studio Paint, Paint Tools ai, Krita, Procreate, Ibis, Medibang, dll)."
+  },
+  {
+    "id": "31.2",
+    "category": "seni",
+    "subcategory": "poster digital",
+    "question": "Bagaimana sistem penjurian untuk memperoleh juara favorit dalam perlombaan poster digital?",
+    "answer": "Penilaian juara favorit berdasarkan pada voting terbanyak dari pengunjung pameran yang akan dilaksanakan pada tanggal 4 dan 5 November 2023."
+  },
+  {
+    "id": "31.3",
+    "category": "seni",
+    "subcategory": "poster digital",
+    "question": "Berapa jumlah delegasi lomba poster digital yang dapat dikirimkan oleh tiap fakultas?",
+    "answer": "Setiap fakultas hanya dapat mengirimkan maksimal 1 delegasi untuk menjadi peserta/seniman."
+  },
+  {
+    "id": "32.1",
+    "category": "seni",
+    "subcategory": "tari modern",
+    "question": "Apakah ada sanksi yang ada diberatkan apabila Fakultas/Sekolah tidak mengirimkan tim perwakilan untuk lomba tari modern?",
+    "answer": "Tidak ada."
+  },
+  {
+    "id": "32.2",
+    "category": "seni",
+    "subcategory": "tari modern",
+    "question": "Apakah ada peraturan mengenai audio yang digunakan dalam penampilan tari modern?",
+    "answer": "Iringan tari menggunakan format MP3 dan disiapkan oleh peserta sendiri."
+  },
+  {
+    "id": "32.3",
+    "category": "seni",
+    "subcategory": "tari modern",
+    "question": "Bagaimana ketentuan apabila ada peserta tari modern yang berhalangan hadir?",
+    "answer": "Tim tetap diperbolehkan tampil selagi memenuhi syarat."
+  },
+  {
+    "id": "33.1",
+    "category": "seni",
+    "subcategory": "tari tradisional",
+    "question": "Apa saja kriteria penilaian dalam perlombaan tari tradisional?",
+    "answer": "Penyajian koreografi, kekompakan, artistik, dan kesesuaian tema."
+  },
+  {
+    "id": "33.2",
+    "category": "seni",
+    "subcategory": "tari tradisional",
+    "question": "Apakah ada sistem pengurangan nilai dalam perlombaan tari tradisional?",
+    "answer": "Ada, apabila durasi tarian melebihi ketentuan yang berlaku, akan diberlakukan pengurangan nilai."
+  },
+  {
+    "id": "33.3",
+    "category": "seni",
+    "subcategory": "tari tradisional",
+    "question": "Berapa jumlah peserta dalam satu kontingen tari tradisional yang boleh berpartisipasi?",
+    "answer": "Jumlah peserta tari tradisional dalam 1 (satu) kontingen yang dikirimkan dari tiap fakultas adalah 4-5 (orang)."
+  },
+  {
+    "id": "33.4",
+    "category": "seni",
+    "subcategory": "tari tradisional",
+    "question": "Apa saja berkas yang harus dipenuhi oleh peserta lomba tari tradisional?",
+    "answer": "(a) Form data diri peserta dan Official Team (https://bit.ly/FormulirDataDiriPesertadanOfficialTeam). (b) Konsep Garapan (https://bit.ly/KonsepGarapanTarTradPSG2023)."
+  },
+  {
+    "id": "34.1",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Apakah ada alat musik yang disediakan oleh panitia untuk tangkai seni vokal group?",
+    "answer": "Tidak, mohon membawa alat musik sendiri serta melaporkan jenis alat musik yang akan digunakan saat technical meeting."
+  },
+  {
+    "id": "34.2",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Dalam tangkai seni vokal group, apakah satu orang dapat merangkap dua peran (vokalis dan pengiring)?",
+    "answer": "Boleh."
+  },
+  {
+    "id": "34.3",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Apabila pada hari-H peserta vokal group yang hadir tidak memenuhi kriteria minimum, apakah boleh digantikan oleh peserta lain?",
+    "answer": "Tidak boleh."
+  },
+  {
+    "id": "34.4",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Apakah pengiring vokal group merupakan bagian dari penilaian dan akan mendapatkan awarding apabila juara?",
+    "answer": "Tidak, yang mendapatkan awarding hanya anggota vocal groupnya saja."
+  },
+  {
+    "id": "34.5",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Apakah kontingen vokal group boleh membawa drum sebagai musik pengiring?",
+    "answer": "Tidak. Apabila menghendaki menggunakan alat musik ritmis, dapat menggunakan cajon sebagai alternatifnya."
+  },
+  {
+    "id": "34.6",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Dalam tangkai seni vokal group, apakah terdapat pemisahan awarding berdasarkan kategori Sejenis dan Campuran?",
+    "answer": "Tidak, awarding tetap dijadikan satu. Pengategorian Sejenis dan Campuran hanya digunakan untuk pendataan."
+  },
+  {
+    "id": "34.7",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Apakah pengiring vokal group boleh berasal dari fakultas lain dan/atau non-S1 dan diploma?",
+    "answer": "Ya, pengiring vokal group diperbolehkan berasal dari angkatan berapapun dan fakultas manapun, selama yang bersangkutan merupakan mahasiswa aktif Universitas Gadjah Mada."
+  },
+  {
+    "id": "34.8",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Apa saja yang akan dilakukan oleh peserta vokal group ketika Uji Coba Panggung?",
+    "answer": "Pada saat Uji Coba Panggung, setiap tim akan diberikan kesempatan untuk mencoba panggung sembari menyanyikan cuplikan lagu yang akan dibawakan."
+  },
+  {
+    "id": "34.9",
+    "category": "seni",
+    "subcategory": "vokal group",
+    "question": "Bagaimana ketentuan midi untuk musik dalam tangkai seni vokal group?",
+    "answer": "Ketentuan midi untuk musik tidak boleh terlalu ramai atau mengganggu karena di tempat yang digunakan terdapat kaca yang rentan bergetar, sehingga dikhawatirkan akan retak atau pecah."
+  },
+  {
+    "id": "35.1",
+    "category": "seni",
+    "subcategory": "vokal keroncong",
+    "question": "Siapa saja yang tidak diperkenankan menjadi peserta tangkai seni vokal keroncong pada Porsenigama 2023?",
+    "answer": "Juara 1, 2, dan 3 Vokal Keroncong Porsenigama tahun 2022."
+  },
+  {
+    "id": "35.2",
+    "category": "seni",
+    "subcategory": "vokal keroncong",
+    "question": "Berapa lagu yang akan dinyanyikan oleh tiap peserta dalam vokal keroncong?",
+    "answer": "Satu lagu saja dimana lagu yang dipilih berdasarkan list yang diberikan oleh panitia (list lagu dapat dilihat pada Guidebook PSG hal. 297), dan untuk midinya sudah disediakan oleh panitia."
+  },
+  {
+    "id": "35.3",
+    "category": "seni",
+    "subcategory": "vokal keroncong",
+    "question": "Apakah midi bisa di-share ke peserta vokal keroncong untuk berlatih?",
+    "answer": "Bisa, midi akan di share oleh panitia setelah pengambilan nada dasar pada Technical Meeting berlangsung."
+  },
+  {
+    "id": "36.1",
+    "category": "seni",
+    "subcategory": "vokal seriosa",
+    "question": "Dalam tangkai seni vokal seriosa, berasal dari mana peralatan perlombaan yang digunakan? Apakah akan disediakan oleh panitia?",
+    "answer": "Iya, dari panitia menyediakan peralatan perlombaan berupa Piano Kawai ES920 di mana pendamping (pelatih/pianis) wajib mengiringi seniman secara langsung, bukan dengan midi."
+  },
+  {
+    "id": "36.2",
+    "category": "seni",
+    "subcategory": "vokal seriosa",
+    "question": "Bagaimana bila dalam satu tim vokal seriosa tidak terdapat seorang pianis?",
+    "answer": "Bisa menyampaikan ke panitia atau memilih opsi tidak memerlukan pianis pada kolom pendaftaran di website agar masuk ke pendataan peserta yang membutuhkan pianis, yang nantinya peserta dapat memakai jasa pianis dari panitia Porsenigama dan membayar Rp300.000/peserta kepada panitia. Opsi lainnya peserta dapat mencari pianist sendiri."
+  },
+  {
+    "id": "36.3",
+    "category": "seni",
+    "subcategory": "vokal seriosa",
+    "question": "Berapakah lama durasi dan jumlah lagu yang akan dibawakan oleh tiap peserta vokal seriosa?",
+    "answer": "10 menit merupakan durasi maksimal untuk penyajian 2 lagu (1 wajib dan 1 pilihan)."
+  },
+  {
+    "id": "36.4",
+    "category": "seni",
+    "subcategory": "vokal seriosa",
+    "question": "Apakah pianis dari peserta vokal seriosa harus mahasiswa UGM?",
+    "answer": "Tidak, pianis dari peserta boleh berasal dari mana saja."
+  },
+  {
+    "id": "36.5",
+    "category": "seni",
+    "subcategory": "vokal seriosa",
+    "question": "Dalam tangkai seni vokal seriosa, jika menggunakan jasa pianis yang disediakan oleh panitia, bagaimana sistem pembayaran dan setor judul lagu? Kemudian, kapan akan dilakukan pengambilan nada dasar?",
+    "answer": "Pembayaran, setor judul lagu, dan pengambilan nada dasar dilakukan ketika Technical Meeting Vokal Seriosa berlangsung."
+  },
+  {
+    "id": "36.6",
+    "category": "seni",
+    "subcategory": "vokal seriosa",
+    "question": "Dalam tangkai seni vokal seriosa, apakah data diri pianis perlu didaftarkan ketika pendaftaran di website atau langsung melapor kepada panitia?",
+    "answer": "Tidak perlu."
+  }
+]

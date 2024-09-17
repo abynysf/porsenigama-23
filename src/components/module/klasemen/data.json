@@ -1,0 +1,40 @@
+[
+  { "id": 1, "fakultas": "Sekolah Vokasi", "gold": 100, "silver": 50, "bronze": 30 },
+  { "id": 2, "fakultas": "Fakultas Teknik", "gold": 0, "silver": 10, "bronze": 1 },
+  { "id": 3, "fakultas": "Fakultas Teknologi Pertanian", "gold": 2, "silver": 2, "bronze": 3 },
+  { "id": 4, "fakultas": "Fakultas Psikologi", "gold": 6, "silver": 7, "bronze": 10 },
+  { "id": 5, "fakultas": "Fakultas Peternakan", "gold": 8, "silver": 8, "bronze": 1 },
+  { "id": 6, "fakultas": "Fakultas Pertanian", "gold": 2, "silver": 10, "bronze": 10 },
+  {
+    "id": 7,
+    "fakultas": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+    "gold": 18,
+    "silver": 2,
+    "bronze": 13
+  },
+  { "id": 8, "fakultas": "Fakultas Kehutanan", "gold": 0, "silver": 0, "bronze": 1 },
+  {
+    "id": 9,
+    "fakultas": "Fakultas Kedokteran, Kesehatan Masyarakat dan Keperawatan",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  { "id": 10, "fakultas": "Fakultas Kedokteran Hewan", "gold": 10, "silver": 23, "bronze": 11 },
+  { "id": 11, "fakultas": "Fakultas Kedokteran Gigi", "gold": 9, "silver": 1, "bronze": 1 },
+  {
+    "id": 12,
+    "fakultas": "Fakultas Ilmu Sosial dan Politik",
+    "gold": 10,
+    "silver": 23,
+    "bronze": 10
+  },
+  { "id": 13, "fakultas": "Fakultas Ilmu Budaya", "gold": 30, "silver": 20, "bronze": 1 },
+  { "id": 14, "fakultas": "Fakultas Hukum", "gold": 10, "silver": 8, "bronze": 12 },
+  { "id": 15, "fakultas": "Fakultas Geografi", "gold": 20, "silver": 1, "bronze": 12 },
+  { "id": 16, "fakultas": "Fakultas Filsafat", "gold": 2, "silver": 3, "bronze": 1 },
+  { "id": 17, "fakultas": "Fakultas Farmasi", "gold": 23, "silver": 11, "bronze": 12 },
+  { "id": 18, "fakultas": "Fakultas Ekonomika dan Bisnis", "gold": 20, "silver": 10, "bronze": 11 },
+  { "id": 19, "fakultas": "Fakultas Biologi", "gold": 20, "silver": 10, "bronze": 13 },
+  { "id": 20, "fakultas": "Sekolah Pascasarjana", "gold": 20, "silver": 10, "bronze": 12 }
+]
